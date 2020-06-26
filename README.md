@@ -2,7 +2,7 @@
 
 This addressed a specific issue I had at work, where we could not guarantee a vendor would send us .csv files in a consistent format. 
 
-Sometimes there were more commas in a row than we expected.  Even worse, sometimes the --AMOUNT OF COLUMNS-- silently changed on us. This was bad... This was very bad...
+Sometimes there were more commas in a row than we expected.  Even worse, sometimes the --AMOUNT OF COLUMNS-- silently changed on us.
 
 This predicably caused the import process to fail on numerous occasions. Bad things happened and many headaches followed.
 
